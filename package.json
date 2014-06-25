@@ -1,0 +1,16 @@
+{
+  "name": "phoenix",
+  "version": "0.0.1",
+  "description": "A static site generator, specifically built for generating documentation.",
+  "main": "bin/phoenix.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ws/phoenix"
+  },
+  "author": "Will Smidlein <will@willsmidlein.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ws/phoenix/issues"
+  },
+  "homepage": "https://github.com/ws/phoenix"
+}
